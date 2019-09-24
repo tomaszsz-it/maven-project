@@ -10,6 +10,7 @@ public class HelloMavenTestTomek extends FunctionalTestCase {
     @Test
     public void mavenFlowReturnsHelloMaven() throws Exception {
         runFlowAndExpectProperty("mavenFlow", "status", "200");
+        
     }
     
     @Override
