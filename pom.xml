@@ -15,7 +15,7 @@
 
 		<mule.version>3.9.2</mule.version>
     	<mule.tools.version>1.7</mule.tools.version>
-    	<derby.version>10.13.1.1</derby.version>
+    	<derby.version>10.17.1.0</derby.version>
     	<mq.version>5.15.10</mq.version>
     	<uid>tomaszsz_it</uid>
     	<pwd></pwd>
